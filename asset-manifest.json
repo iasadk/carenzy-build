@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/carenzy/admin/static/css/main.42a1bc24.css",
+    "main.js": "/carenzy/admin/static/js/main.31d494fe.js",
+    "static/js/69.398b5f57.chunk.js": "/carenzy/admin/static/js/69.398b5f57.chunk.js",
+    "static/js/246.f0c0c7ad.chunk.js": "/carenzy/admin/static/js/246.f0c0c7ad.chunk.js",
+    "static/js/713.42344bfa.chunk.js": "/carenzy/admin/static/js/713.42344bfa.chunk.js",
+    "static/js/376.ccf2b9a8.chunk.js": "/carenzy/admin/static/js/376.ccf2b9a8.chunk.js",
+    "static/js/94.4bcb0013.chunk.js": "/carenzy/admin/static/js/94.4bcb0013.chunk.js",
+    "static/js/787.3ce4cc4d.chunk.js": "/carenzy/admin/static/js/787.3ce4cc4d.chunk.js",
+    "static/js/689.c313afca.chunk.js": "/carenzy/admin/static/js/689.c313afca.chunk.js",
+    "static/js/396.49faef27.chunk.js": "/carenzy/admin/static/js/396.49faef27.chunk.js",
+    "static/css/385.8da41a75.chunk.css": "/carenzy/admin/static/css/385.8da41a75.chunk.css",
+    "static/css/260.605a49b5.chunk.css": "/carenzy/admin/static/css/260.605a49b5.chunk.css",
+    "static/css/306.0eb406c7.chunk.css": "/carenzy/admin/static/css/306.0eb406c7.chunk.css",
+    "index.html": "/carenzy/admin/index.html",
+    "main.42a1bc24.css.map": "/carenzy/admin/static/css/main.42a1bc24.css.map",
+    "main.31d494fe.js.map": "/carenzy/admin/static/js/main.31d494fe.js.map",
+    "69.398b5f57.chunk.js.map": "/carenzy/admin/static/js/69.398b5f57.chunk.js.map",
+    "246.f0c0c7ad.chunk.js.map": "/carenzy/admin/static/js/246.f0c0c7ad.chunk.js.map",
+    "713.42344bfa.chunk.js.map": "/carenzy/admin/static/js/713.42344bfa.chunk.js.map",
+    "376.ccf2b9a8.chunk.js.map": "/carenzy/admin/static/js/376.ccf2b9a8.chunk.js.map",
+    "94.4bcb0013.chunk.js.map": "/carenzy/admin/static/js/94.4bcb0013.chunk.js.map",
+    "787.3ce4cc4d.chunk.js.map": "/carenzy/admin/static/js/787.3ce4cc4d.chunk.js.map",
+    "689.c313afca.chunk.js.map": "/carenzy/admin/static/js/689.c313afca.chunk.js.map",
+    "396.49faef27.chunk.js.map": "/carenzy/admin/static/js/396.49faef27.chunk.js.map",
+    "385.8da41a75.chunk.css.map": "/carenzy/admin/static/css/385.8da41a75.chunk.css.map",
+    "260.605a49b5.chunk.css.map": "/carenzy/admin/static/css/260.605a49b5.chunk.css.map",
+    "306.0eb406c7.chunk.css.map": "/carenzy/admin/static/css/306.0eb406c7.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/css/main.42a1bc24.css",
+    "static/js/main.31d494fe.js"
+  ]
+}
