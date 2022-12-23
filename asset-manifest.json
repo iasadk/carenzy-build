@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/carenzy/admin/static/css/main.42a1bc24.css",
-    "main.js": "/carenzy/admin/static/js/main.1c7bebdc.js",
+    "main.js": "/carenzy/admin/static/js/main.f1d69044.js",
     "static/js/69.398b5f57.chunk.js": "/carenzy/admin/static/js/69.398b5f57.chunk.js",
     "static/js/246.f0c0c7ad.chunk.js": "/carenzy/admin/static/js/246.f0c0c7ad.chunk.js",
     "static/js/713.42344bfa.chunk.js": "/carenzy/admin/static/js/713.42344bfa.chunk.js",
@@ -15,7 +15,7 @@
     "static/css/306.0eb406c7.chunk.css": "/carenzy/admin/static/css/306.0eb406c7.chunk.css",
     "index.html": "/carenzy/admin/index.html",
     "main.42a1bc24.css.map": "/carenzy/admin/static/css/main.42a1bc24.css.map",
-    "main.1c7bebdc.js.map": "/carenzy/admin/static/js/main.1c7bebdc.js.map",
+    "main.f1d69044.js.map": "/carenzy/admin/static/js/main.f1d69044.js.map",
     "69.398b5f57.chunk.js.map": "/carenzy/admin/static/js/69.398b5f57.chunk.js.map",
     "246.f0c0c7ad.chunk.js.map": "/carenzy/admin/static/js/246.f0c0c7ad.chunk.js.map",
     "713.42344bfa.chunk.js.map": "/carenzy/admin/static/js/713.42344bfa.chunk.js.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.42a1bc24.css",
-    "static/js/main.1c7bebdc.js"
+    "static/js/main.f1d69044.js"
   ]
 }
